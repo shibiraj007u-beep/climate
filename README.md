@@ -1,3 +1,3 @@
  climate-
 
-## URL: https://shibiraj007u-beep.github.io/climate_/
+## URL: https://shibiraj007u-beep.github.io/climate/
